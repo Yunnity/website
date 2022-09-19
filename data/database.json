@@ -1,0 +1,113 @@
+{
+    "currentGames":[
+        {
+            "gameName": "League of Legends",
+            "genre": "MOBA",
+            "pros": "Large community, wide range of abilities among its champions/characters, popular",
+            "cons": "Notoriously toxic (but there are nice people too c:), steep learning curve",
+            "rating": "9/10 (I've played since the 5th grade so I'm extremely biased)",
+            "id": "LeagueOfLegends"
+        },
+        {
+            "gameName": "Valorant",
+            "genre": "FPS",
+            "pros": "Nicely implements unique abilities into a tactical shooter, diverse cast of agents/characters, high storybuilding potential",
+            "cons": "Balancing needs to be tweaked, toxicity",
+            "rating": "8.5/10",
+            "id": "Valorante"
+        },
+        {
+            "gameName": "Counter Strike: Global Offensive",
+            "genre": "FPS",
+            "pros": "Balanced well/refined, simple, consistent",
+            "cons": "Lack of reliable anticheat, lack of substantial updates",
+            "rating": "7.5/10",
+            "id": "CSGO"
+        },
+        {
+            "gameName": "Deemo",
+            "genre": "Rhythm",
+            "pros": "Great music, gameplay is easy to get into, decent story",
+            "cons": "Paywalls (nothing preventing the progression of the story though)",
+            "rating": "7.5/10",
+            "id": "DeemoMobile"
+        },
+        {
+            "gameName": "Genshin Impact",
+            "genre": "Open-world, Action RPG",
+            "pros": "Interesting story, stunning graphics (unless you need frames instead)",
+            "cons": "May eventually feel like a grind, gacha system (unless you're into that)",
+            "rating": "7.8/10",
+            "id": "Genshin"
+        },
+        {
+            "gameName": "Osu",
+            "genre": "Rhythm",
+            "pros": "Lot's of freedom since you can download any beatmaps online, fun way to improve hand-eye coordination",
+            "cons": "Not too sure, I feel like Osu is hit or miss with people",
+            "rating": "8/10",
+            "id": "OsuRhythm"
+        },
+        {
+            "gameName": "Super Smash Bros. Ultimate",
+            "genre": "Fighting",
+            "pros": "Large cast of characters, fun party game with others, lots of features",
+            "cons": "Need to pay to play online + latency issues playing online, ungrateful community",
+            "rating": "8.2/10",
+            "id": "SSBU"
+        },
+        {
+            "gameName": "Super Smash Bros. Brawl",
+            "genre": "Fighting",
+            "pros": "Amazing story mode for its time (Subspace Emissary)",
+            "cons": "Lack of online, physics engine, game is dead",
+            "rating": "7/10",
+            "id": "SSBB"
+        }
+    ],
+    "lookingForwardToPlaying":[
+        {
+            "gameName": "Riot's Project L"
+        }
+    ],
+    "currProjects":[
+        {
+            "projectName": "Revolt",
+            "projectType": "Unity 2D Puzzle Game",
+            "projectDate": "July 2022 - Current",
+            "projectDesc": "Puzzle game that I'm currently working on. Inspired by Vanripper's \"Helltaker\" and \"World's Hardest Game.\" In this game, players move across a checkerboard in a grid-like fashion, avoiding and controlling enemies while trying to make it to the goal within a set move limit."
+        }
+    ],
+    "pastProjects":[
+        {
+            "projectName": "STEM Games Anxiety Detection",
+            "projectType": "Research Project",
+            "projectDate": "May 2022 — September 2022",
+            "projectDesc": "A collection of Python and C# scripts connected via port programming in order to collect physiological data from the player as they wear an Empatica E4 wristwatch (device that collects physiological signals from the body). Participants of the study (children) would wear the watch while playing STEM-related Unity games and the collection of scripts would determine when they experienced heightened anxiety."
+        },
+        {
+            "projectName": "Canada Robotix Wind Turbine Measurement Instrument",
+            "projectType": "Commissioned Project",
+            "projectDate": "July 2022 - September 2022",
+            "projectDesc": "Used Arduino Uno, other circuitry components, and scripts to measure and plot live values, such as voltage, power and rotational velocity from a wind turbine's engine."
+        },
+        {
+            "projectName": "Multitask Madness",
+            "projectType": "Unity Mobile Game",
+            "projectDate": "May 2022 — September 2022",
+            "projectDesc": "2D mobile game inspired by the now unavailable game 'Two Brains One Mind.' Players must complete certain minigames that appear concurrently on their screen within a limited time frame, with the game ending after they fail to successfully finish a set number of tasks."
+        },
+        {
+            "projectName": "D-Time",
+            "projectType": "Unity 2D Typing Game",
+            "projectDate": "December 2021 — March 2022",
+            "projectDesc": "A typing game in which words spawn at the top of a player's screen and fall to the bottom. Players must type out these words before they reach the bottom of their screen in order to avoid losing. Players can, to a certain extent, dilate time, temporarily slowing down the rate at which words fall."
+        },
+        {
+            "projectName": "Colourless World",
+            "projectType": "Unity 2D Platformer",
+            "projectDate": "August 2021 — January 2022",
+            "projectDesc": "My first 2D platformer. Players must avoid enemies, maneuver around special terrain, and solve riddles in order to clear levels. As the player progresses, they can also shuffle between characters, each with their own unique abilities."
+        }
+    ]
+}
