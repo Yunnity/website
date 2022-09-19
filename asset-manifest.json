@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.1a464a46.css",
-    "main.js": "/website/static/js/main.b213b0ed.js",
+    "main.js": "/website/static/js/main.3186c7df.js",
     "static/media/PictureOfMe.jpg": "/website/static/media/PictureOfMe.cafea0d04fd153ff109d.jpg",
     "static/media/GenshinIcon.png": "/website/static/media/GenshinIcon.a485de5333f60555b7f4.png",
     "static/media/OsuRhythmIcon.png": "/website/static/media/OsuRhythmIcon.96f598d00dfcd61ed041.png",
@@ -13,10 +13,10 @@
     "static/media/ValorantIcon.png": "/website/static/media/ValorantIcon.36065964fb3fbdd0b6b0.png",
     "index.html": "/website/index.html",
     "main.1a464a46.css.map": "/website/static/css/main.1a464a46.css.map",
-    "main.b213b0ed.js.map": "/website/static/js/main.b213b0ed.js.map"
+    "main.3186c7df.js.map": "/website/static/js/main.3186c7df.js.map"
   },
   "entrypoints": [
     "static/css/main.1a464a46.css",
-    "static/js/main.b213b0ed.js"
+    "static/js/main.3186c7df.js"
   ]
 }
