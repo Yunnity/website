@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, Routes, Link, Navigate } from 'react-router-dom';
 import Home from './Home';
 import NavBar from './NavBar';
 import Projects from './Projects';
@@ -13,9 +13,6 @@ function App() {
         <NavBar/>
         <div className="content">
           <Switch>
-            <Route exact path="/">
-              <Home/>
-            </Route>
             <Route exact path="/AboutMe">
               <AboutMe/>
             </Route>
@@ -24,6 +21,9 @@ function App() {
             </Route>
             <Route exact pacth="/GameCorner">
               <GameCorner/>
+            </Route>
+            <Route exact path="/">
+              <Home/>
             </Route>
           </Switch>
         </div>
