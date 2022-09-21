@@ -33,8 +33,7 @@ const NavBar = () => {
                 transition={{delay: 0, type: "spring", stiffness: 110, duration: 1.2}}
                 whileHover={{backgroundColor: "rgba(0, 0, 255, 0.1)"}}
                 >
-                    {/* Y.S.<br/>Yang */}
-                    Bruh
+                    Y.S.<br/>Yang
                 </motion.button>
                 </Link>
                 <Link to="/"><motion.button

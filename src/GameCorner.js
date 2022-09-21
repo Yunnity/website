@@ -4,8 +4,8 @@ import useFetch from './useFetch';
 import { motion } from 'framer-motion';
 
 const GameCorner = () => {
-    let { data: currentGames, loading, loadingMessage } = useFetch("http://localhost:3002/currentGames");
-    let { data: futureGames, loading1, loadingMessage1 } = useFetch("http://localhost:3002/lookingForwardToPlaying")
+    let { data: currentGames, loading, loadingMessage } = useFetch("https://my-json-server.typicode.com/yunnity/websiteinfo/currentGames");
+    let { data: futureGames, loading1, loadingMessage1 } = useFetch("http://localhost:3002/lookingForwardToPlaying");
 
     return (
         <motion.div className="gameCorner"

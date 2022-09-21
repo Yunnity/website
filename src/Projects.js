@@ -3,8 +3,8 @@ import ProjectsList from './ProjectsList';
 import { motion } from 'framer-motion';
 
 const Projects = () => {
-    let { data: pastProjectList, loading, loadingMessage } = useFetch("http://localhost:3002/pastProjects");
-    let { data: currProjectList, loading1, loadingMessage1 } = useFetch("http://localhost:3002/currProjects");
+    let { data: pastProjectList, loading, loadingMessage } = useFetch("https://my-json-server.typicode.com/yunnity/websiteinfo/pastProjects");
+    let { data: currProjectList, loading1, loadingMessage1 } = useFetch("https://my-json-server.typicode.com/yunnity/websiteinfo/currProjects");
     
     return (
         <motion.div className="projects"
