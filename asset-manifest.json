@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.1a464a46.css",
-    "main.js": "/website/static/js/main.c60adb1a.js",
-    "static/media/PictureOfMe.jpg": "/website/static/media/PictureOfMe.cafea0d04fd153ff109d.jpg",
-    "static/media/GenshinIcon.png": "/website/static/media/GenshinIcon.a485de5333f60555b7f4.png",
-    "static/media/OsuRhythmIcon.png": "/website/static/media/OsuRhythmIcon.96f598d00dfcd61ed041.png",
-    "static/media/LeagueOfLegendsIcon.png": "/website/static/media/LeagueOfLegendsIcon.bf6780635e70b2406041.png",
-    "static/media/CSGOIcon.png": "/website/static/media/CSGOIcon.ce329e49b51d07ed98aa.png",
-    "static/media/DeemoMobileIcon.png": "/website/static/media/DeemoMobileIcon.c37516c0510d3d8396c9.png",
-    "static/media/SSBUIcon.jpg": "/website/static/media/SSBUIcon.a933d8ad33e03bf64ad8.jpg",
-    "static/media/SSBBIcon.png": "/website/static/media/SSBBIcon.497d9b93abf81c8c5e48.png",
-    "static/media/ValorantIcon.png": "/website/static/media/ValorantIcon.36065964fb3fbdd0b6b0.png",
-    "index.html": "/website/index.html",
-    "main.1a464a46.css.map": "/website/static/css/main.1a464a46.css.map",
-    "main.c60adb1a.js.map": "/website/static/js/main.c60adb1a.js.map"
+    "main.css": "/static/css/main.1a464a46.css",
+    "main.js": "/static/js/main.952d78d7.js",
+    "static/media/PictureOfMe.jpg": "/static/media/PictureOfMe.cafea0d04fd153ff109d.jpg",
+    "static/media/GenshinIcon.png": "/static/media/GenshinIcon.a485de5333f60555b7f4.png",
+    "static/media/OsuRhythmIcon.png": "/static/media/OsuRhythmIcon.96f598d00dfcd61ed041.png",
+    "static/media/LeagueOfLegendsIcon.png": "/static/media/LeagueOfLegendsIcon.bf6780635e70b2406041.png",
+    "static/media/CSGOIcon.png": "/static/media/CSGOIcon.ce329e49b51d07ed98aa.png",
+    "static/media/DeemoMobileIcon.png": "/static/media/DeemoMobileIcon.c37516c0510d3d8396c9.png",
+    "static/media/SSBUIcon.jpg": "/static/media/SSBUIcon.a933d8ad33e03bf64ad8.jpg",
+    "static/media/SSBBIcon.png": "/static/media/SSBBIcon.497d9b93abf81c8c5e48.png",
+    "static/media/ValorantIcon.png": "/static/media/ValorantIcon.36065964fb3fbdd0b6b0.png",
+    "index.html": "/index.html",
+    "main.1a464a46.css.map": "/static/css/main.1a464a46.css.map",
+    "main.952d78d7.js.map": "/static/js/main.952d78d7.js.map"
   },
   "entrypoints": [
     "static/css/main.1a464a46.css",
-    "static/js/main.c60adb1a.js"
+    "static/js/main.952d78d7.js"
   ]
 }
